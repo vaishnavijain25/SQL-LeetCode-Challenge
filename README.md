@@ -7,7 +7,7 @@ SQL solutions to LeetCode problems for improving query logic and preparing for d
 - Filtering, subqueries, aggregation
 
  Folders:
-- `easy/`, `medium/`, `hard/`
+- `Easy/`, `Medium/`, `Hard/`
 
 Each file includes the problem link, difficulty, and my solution with comments.
 
